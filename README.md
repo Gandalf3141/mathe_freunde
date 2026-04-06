@@ -9,3 +9,5 @@ the goal is to create a program that:
 - is fast (but only python fast..)
 ------------------------------------------------------
 ##
+
+we could use uv as package manager 
